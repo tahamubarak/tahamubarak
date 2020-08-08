@@ -3,7 +3,7 @@
 My name is Taha and i'm a Software Engineer. I work and live in Dubai.
  - I'am Egyptian and this is a nice part in my life.
  - I've +10 years of career experience in Airport Business Operations, Technical Delivery, Integrations and Technical Consultancy.
- - I worked for airports in the Middle East, Europe and The Americas.
+ - I'am a certified PMP. I work for airports in the Middle East, Europe and The Americas.
  
    <img src="https://github.com/tahamubarak/tahamubarak/blob/master/Taha.png" align="right" width="25%"/>
 
