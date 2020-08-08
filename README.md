@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Howdy! 
 
 My name is Taha and i'm a Software Engineer. I work and live in Dubai.
  - I'am Egyptian and this is a nice part in my life.
