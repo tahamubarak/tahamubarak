@@ -1,9 +1,6 @@
 ### Hi there 👋
 # Howdy! 
 
-<!--
-**chriscoyier/chriscoyier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a web designer and developer. I built [CSS-Tricks](https://css-tricks.com), a website all about building websites, going strong for 10 years.
 
 Here are some ideas to get you started:
 I'm the co-founder of [CodePen](https://codepen.io), a playground for front-end web development. It’s a social development environment for front end designers and developers.
